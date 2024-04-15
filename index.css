@@ -1,0 +1,37 @@
+body {
+  background-image: url(background.jpg);
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  width: 1000px;
+  margin: auto;
+  background-color: black;
+  opacity: 0.5;
+  color: aliceblue;
+  border-radius: 10px;
+}
+.title {
+  color: lawngreen;
+}
+.orange {
+  color: orange;
+  width: 250px;
+}
+.green {
+  width: 50px;
+}
+.green2 {
+  width: 400px;
+}
+.red {
+  width: 150px;
+}
+.first {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.text {
+  margin-left: 80px;
+}
